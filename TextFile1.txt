@@ -3,3 +3,4 @@ taxt  Git GitHub
 condition
 
 git diff
+git diff --staged 
